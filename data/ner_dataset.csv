@@ -1,0 +1,351 @@
+kalimat,label
+saya ingin memesan 3 gelas dan 7 piring dengan motif polkadot   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 15 piring dan 5 gelas dengan motif batik ke bandung   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 8 gelas dan 12 piring dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 4 piring dengan motif geometris ke yogyakarta   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 5 gelas dengan motif bunga dan 3 piring   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 20 piring dengan motif garis untuk acara di jakarta pusat   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 10 gelas motif hijau untuk pengiriman ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 12 piring dan 6 gelas dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 3 piring motif batik dan 4 gelas untuk dikirim ke malang   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 6 gelas dengan motif alam dan 10 piring   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya mau pesan 2 gelas dan 4 piring dengan motif marmer   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirimkan 25 piring dengan motif garis-garis ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin memesan 3 piring dan 5 gelas bermotif floral   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+mohon siapkan 8 gelas motif polkadot untuk kirim ke semarang   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 10 piring dan 6 gelas dengan motif hijau   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirim 12 gelas motif bunga ke bandung   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya membutuhkan 4 piring dan 3 gelas motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+tolong pesan 7 piring dengan motif garis ke jakarta pusat   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION 
+siapkan 5 piring motif polkadot dan 6 gelas   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin order 15 gelas dengan motif etnik   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirim 3 piring dan 10 gelas motif geometris ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya mau 5 gelas bermotif garis-garis dan 8 piring   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong pesan 6 piring dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+siapkan 7 gelas motif batik untuk dikirim ke jogja   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+saya ingin order 20 piring dan 9 gelas dengan motif marmer   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong pesan 10 gelas motif bunga dan 4 piring   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya mau kirim 15 piring dengan motif polkadot ke makassar   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+pesan 5 gelas motif hijau untuk pengiriman ke denpasar   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+siapkan 3 piring dengan motif garis untuk acara di palembang   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+tolong order 2 gelas dengan motif batik   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 7 piring dan 6 gelas bermotif geometris   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+saya butuh 12 piring dengan motif etnik untuk dikirim ke medan   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 25 gelas motif polkadot   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+tolong pesan 8 piring dan 3 gelas dengan motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirim 4 gelas bermotif floral ke tangerang   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya mau order 10 piring dengan motif bunga   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirimkan 15 piring dan 5 gelas motif polkadot ke batam   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+siapkan 4 piring dengan motif batik untuk pengiriman ke solo   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+saya butuh 10 gelas dengan motif marmer   , 0 0 B-QUANTITY B-ITEM 0 0B-MOTIF 
+pesan 8 gelas motif geometris untuk pengiriman ke surabaya   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+kirimkan 9 piring dengan motif bunga ke bandung   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin pesan 5 gelas motif polkadot dan 4 piring   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong pesan 7 gelas dengan motif floral   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+siapkan 3 gelas motif batik untuk pengiriman ke yogyakarta   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 15 piring dan 2 gelas dengan motif garis   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya ingin order 5 gelas motif hijau untuk dikirim ke palembang   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 12 gelas dengan motif geometris untuk dikirim ke jakarta   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+kirim 7 gelas motif polkadot ke batam   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+siapkan 3 gelas bermotif garis-garis untuk pengiriman ke semarang   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+saya butuh 5 piring dengan motif bunga untuk di surabaya   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 B-LOCATION 
+pesan 8 gelas dengan motif hijau untuk dikirim ke medan   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 B-LOCATION 
+siapkan 4 gelas dan 6 piring motif batik   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+kirimkan 6 gelas motif garis-garis ke tangerang   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+pesan 3 piring dan 10 gelas bermotif bunga   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+siapkan 6 piring dengan motif floral untuk dikirim ke malang   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+saya ingin kirim 5 gelas dengan motif batik ke bali   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+tolong order 4 piring dan 5 gelas motif geometris   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+siapkan 7 gelas dengan motif floral   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+kirim 15 piring dan 6 gelas bermotif hijau ke medan   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya mau kirim 5 gelas dengan motif batik ke bogor   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin memesan 6 mangkuk dengan motif berbunga untuk dikirim ke depok   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+mohon kirimkan 2 cangkir dan 5 gelas dengan motif minimalis   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+pesan 4 sendok dengan motif garis ke surabaya timur   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION 
+minta 7 piring dan 3 mangkuk dengan motif etnik   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirimkan 5 cangkir dengan motif bunga dan antar ke bogor   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+bawa 2 gelas dengan motif garis-garis ke jakarta   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya membutuhkan 4 sendok dan 6 cangkir dengan motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+mohon antar 7 mangkuk dengan motif floral ke semarang   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+kirim 10 gelas dan 2 sendok dengan motif polkadot   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya mau memesan 1 set cangkir dengan motif garis   , 0 0 0 B-QUANTITY 0 B-ITEM 0 0 B-MOTIF 
+pesan 5 piring dengan motif bunga-bunga untuk dikirim ke bandung   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+minta 3 sendok dan 4 piring dengan motif etnik   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 8 cangkir dengan motif minimalis ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin pesan 9 mangkuk dengan motif polkadot untuk surabaya   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+mohon kirimkan 3 gelas dan 6 piring dengan motif garis-garis   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+pesan 4 cangkir dengan motif floral ke bekasi   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+minta 2 piring dan 8 sendok dengan motif etnik   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirim 7 mangkuk dengan motif garis untuk dikirim ke bali   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+saya mau memesan 5 gelas dengan motif bunga   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+pesan 10 sendok dengan motif minimalis ke yogyakarta   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+minta 1 set piring dengan motif etnik ke malang   , 0 B-QUANTITY 0 B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+tolong kirimkan 6 cangkir dan 4 mangkuk dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya membutuhkan 3 gelas dengan motif garis-garis ke jakarta selatan   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION 
+kirim 2 mangkuk dan 5 sendok dengan motif etnik   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 4 piring dengan motif polkadot ke bali   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+pesan 3 cangkir dengan motif floral untuk dikirim ke medan   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+minta 8 sendok dan 3 piring dengan motif garis   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya mau membeli 10 piring dengan motif etnik   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+pesan 5 gelas dengan motif minimalis ke bogor   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+tolong antar 3 mangkuk dengan motif polkadot ke depok   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+minta 7 cangkir dengan motif garis-garis   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+pesan 9 sendok dengan motif etnik ke bandung   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya mau memesan 2 piring dengan motif bunga-bunga   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirim 4 mangkuk dengan motif minimalis untuk dikirim ke makassar   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION 
+tolong antar 5 gelas dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+pesan 6 piring dengan motif floral   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+minta 3 sendok dengan motif garis-garis ke jakarta   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya mau memesan 10 cangkir dengan motif etnik   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirimkan 4 mangkuk dengan motif garis ke bali   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+pesan 5 gelas dengan motif bunga ke yogyakarta   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya mau memesan 8 piring dengan motif minimalis   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirim 2 sendok dan 6 cangkir dengan motif etnik   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong kirimkan 7 mangkuk dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya ingin memesan 3 gelas dengan motif garis-garis   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+minta 10 piring dengan motif etnik   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya membutuhkan 4 cangkir dengan motif minimalis ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+tolong kirim 6 sendok dengan motif polkadot ke semarang   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+pesan 8 mangkuk dengan motif garis   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+saya ingin memesan 5 piring dengan motif bunga-bunga   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirim 7 cangkir dengan motif floral ke bandung   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 7 gelas dan 3 piring dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 3 gelas dan 12 piring dengan motif batik ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 10 gelas dan 5 piring dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 2 gelas dengan motif geometris ke surabaya   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 4 gelas dengan motif bunga dan 9 piring   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 8 piring dengan motif garis untuk acara di bandung   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 15 gelas motif hijau untuk pengiriman ke yogyakarta   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 9 piring dan 7 gelas dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 5 piring motif batik dan 8 gelas untuk dikirim ke denpasar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 6 gelas dengan motif alam dan 11 piring   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 5 gelas dan 6 piring dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 6 gelas dan 10 piring dengan motif batik ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 4 gelas dan 14 piring dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 10 gelas dengan motif geometris ke medan   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 8 gelas dengan motif bunga dan 5 piring   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 9 piring dengan motif garis untuk acara di semarang   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 7 gelas motif hijau untuk pengiriman ke bandung   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 13 piring dan 11 gelas dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 12 piring motif batik dan 9 gelas untuk dikirim ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 15 gelas dengan motif alam dan 3 piring   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 3 gelas dan 8 piring dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 10 gelas dan 7 piring dengan motif batik ke yogyakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 6 gelas dan 5 piring dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 12 gelas dengan motif geometris ke bali   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 9 gelas dengan motif bunga dan 6 piring   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 8 piring dengan motif garis untuk acara di makassar   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 14 gelas motif hijau untuk pengiriman ke malang   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 11 piring dan 9 gelas dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 7 piring motif batik dan 13 gelas untuk dikirim ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 6 gelas dengan motif alam dan 11 piring   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 5 gelas dan 12 piring dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 4 gelas dan 13 piring dengan motif batik ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 8 gelas dan 9 piring dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 7 gelas dengan motif geometris ke jogja   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 10 gelas dengan motif bunga dan 8 piring   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya memesan 5 sendok dan 3 garpu dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 6 sendok dan 8 garpu dengan motif batik ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 4 pisau dan 7 garpu dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 10 sendok dengan motif geometris ke bali   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 7 garpu dengan motif bunga dan 6 pisau   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 9 sendok dengan motif garis untuk acara di semarang   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 12 garpu motif hijau untuk pengiriman ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 8 pisau dan 5 sendok dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 11 sendok motif batik dan 9 garpu untuk dikirim ke denpasar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 6 pisau dengan motif alam dan 4 garpu   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 3 sendok dan 10 garpu dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 4 sendok dan 8 garpu dengan motif batik ke yogyakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 2 pisau dan 6 sendok dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 9 sendok dengan motif geometris ke jogja   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 5 garpu dengan motif bunga dan 7 pisau   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 6 sendok dengan motif garis untuk acara di makassar   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 10 garpu motif hijau untuk pengiriman ke bandung   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 7 pisau dan 6 sendok dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 5 sendok motif batik dan 8 garpu untuk dikirim ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 3 pisau dengan motif alam dan 9 garpu   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 9 sendok dan 4 garpu dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 6 sendok dan 5 garpu dengan motif batik ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 2 pisau dan 10 sendok dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 8 sendok dengan motif geometris ke bali   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 4 garpu dengan motif bunga dan 7 pisau   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 9 sendok dengan motif garis untuk acara di bali   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION 
+saya butuh 7 garpu motif hijau untuk pengiriman ke malang   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+pesan 6 pisau dan 8 sendok dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong siapkan 3 sendok motif batik dan 9 garpu untuk dikirim ke denpasar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 0 0 B-LOCATION 
+saya mau order 8 pisau dengan motif alam dan 5 garpu   , 0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 4 sendok dan 6 garpu dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+tolong antar 10 sendok dan 5 garpu dengan motif batik ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya memesan 7 pisau dan 6 sendok dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 
+kirimkan 4 sendok dengan motif geometris ke makassar   , 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION 
+saya ingin 6 garpu dengan motif bunga dan 8 pisau   , 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya mau pesan 5 mangkuk dengan motif bunga untuk dikirim ke surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+tolong siapkan 7 sumpit dengan motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+saya ingin 3 mangkuk motif geometris dan 6 sumpit dengan motif polkadot   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+pesan 9 sumpit dengan motif kayu   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+saya butuh 4 mangkuk dengan motif alam untuk pengiriman ke jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 0 0 B-LOCATION 
+tolong siapkan 5 mangkuk dan 7 sumpit motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+saya ingin 8 sumpit dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+pesan 6 mangkuk dan 3 sumpit motif polkadot   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+saya mau order 4 sumpit dengan motif geometris   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+tolong kirim 7 mangkuk dengan motif batik ke denpasar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya ingin 6 sumpit dan 5 mangkuk motif bunga   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+pesan 8 mangkuk motif kayu dan 4 sumpit   , 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 9 mangkuk dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+saya mau order 5 sumpit dengan motif polkadot   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+pesan 7 sumpit dengan motif geometris   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+saya ingin 3 mangkuk dengan motif alam dan 6 sumpit   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong kirimkan 4 sumpit dan 2 mangkuk motif bunga ke bandung   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 0 B-LOCATION 
+saya mau pesan 10 mangkuk dengan motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+pesan 6 sumpit dengan motif geometris dan 5 mangkuk   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 5 mangkuk dan 7 sumpit motif bunga   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+saya ingin 4 sumpit dengan motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+pesan 8 sumpit dengan motif alam dan 5 mangkuk   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya butuh 7 sumpit dengan motif kayu dan 6 mangkuk   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong kirimkan 3 mangkuk motif batik ke malang   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-LOCATION 
+saya mau pesan 10 sumpit dengan motif geometris   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+tolong siapkan 6 sumpit dan 3 mangkuk motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+saya ingin 7 sumpit dengan motif bunga dan 5 mangkuk   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+pesan 4 mangkuk dengan motif batik dan 6 sumpit   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya butuh 8 mangkuk motif geometris dan 4 sumpit   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong kirimkan 5 mangkuk dan 7 sumpit dengan motif alam   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+saya ingin 9 sumpit dengan motif kayu dan 6 mangkuk   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+pesan 7 mangkuk dengan motif strip dan 4 sumpit   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya mau order 5 sumpit dan 3 mangkuk motif polkadot   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+tolong siapkan 8 mangkuk motif batik dan 2 sumpit   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 10 sumpit dengan motif strip   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+pesan 6 mangkuk dengan motif bunga dan 4 sumpit   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya butuh 5 sumpit dengan motif alam   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+tolong siapkan 3 mangkuk dengan motif geometris   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 
+saya ingin 4 sumpit dan 6 mangkuk motif batik   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+pesan 7 sumpit dengan motif kayu dan 5 mangkuk   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya mau order 6 mangkuk dan 4 sumpit motif polkadot   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+pesan 5 sumpit dengan motif batik dan 6 mangkuk   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 8 mangkuk motif alam dan 7 sumpit   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong kirimkan 10 sumpit dengan motif bunga ke bali   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya butuh 3 mangkuk dengan motif polkadot dan 7 sumpit   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+pesan 6 sumpit dengan motif batik dan 8 mangkuk   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya ingin 4 sumpit dengan motif geometris dan 5 mangkuk   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+pesan 9 mangkuk dengan motif kayu dan 2 sumpit   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+tolong siapkan 7 sumpit dengan motif strip dan 3 mangkuk   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM 
+saya mau pesan 5 mangkuk dan 6 sumpit motif alam   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF 
+pesan 3 mangkuk dengan motif batik dan 4 sumpit ke Jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya butuh 5 sumpit motif kayu dan 7 mangkuk ke Bandung   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong kirimkan 6 sumpit dengan motif bunga ke Surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-LOCATION 
+saya mau order 7 mangkuk dan 3 sumpit motif geometris ke Yogyakarta   , 0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF B-LOCATION 
+pesan 4 sumpit dengan motif alam dan 6 mangkuk ke Bali   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 10 mangkuk dan 5 sumpit motif strip ke Medan   , 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF B-LOCATION 
+tolong siapkan 8 mangkuk dengan motif polkadot dan 3 sumpit ke Makassar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau order 5 sumpit dengan motif batik dan 4 mangkuk ke Palembang   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 7 mangkuk dengan motif kayu dan 2 sumpit ke Semarang   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 6 mangkuk motif bunga dan 5 sumpit ke Pontianak   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong siapkan 3 sumpit dengan motif batik dan 7 mangkuk ke Surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau pesan 8 sumpit motif alam dan 3 mangkuk ke Balikpapan   , 0 0 B-QUANTITY B-ITEM B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 10 sumpit dengan motif strip dan 6 mangkuk ke Denpasar   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 4 sumpit dengan motif polkadot dan 5 mangkuk ke Surakarta   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong kirimkan 6 mangkuk dengan motif geometris dan 3 sumpit ke Jambi   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya butuh 5 sumpit dengan motif batik dan 7 mangkuk ke Tangerang   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 4 mangkuk dan 3 sumpit motif kayu ke Banda Aceh   , 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM B-MOTIF B-LOCATION 
+saya ingin 3 mangkuk dengan motif bunga dan 6 sumpit ke Banjarmasin   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya butuh 5 sumpit dengan motif alam dan 2 mangkuk ke Cirebon   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong siapkan 6 sumpit dengan motif strip dan 5 mangkuk ke Pontianak   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 4 mangkuk dengan motif geometris dan 6 sumpit ke Ambon   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 3 mangkuk dengan motif polkadot dan 8 sumpit ke Papua   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong kirimkan 5 sumpit dengan motif batik dan 7 mangkuk ke Surabaya   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau order 6 sumpit dengan motif bunga dan 4 mangkuk ke Medan   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 7 sumpit dengan motif alam dan 5 mangkuk ke Solo   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 10 mangkuk dengan motif geometris dan 3 sumpit ke Batam   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong siapkan 6 mangkuk dengan motif polkadot dan 4 sumpit ke Gorontalo   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 5 sumpit dengan motif batik dan 3 mangkuk ke Bandung   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau order 8 mangkuk dengan motif alam dan 5 sumpit ke Kendari   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 10 sumpit dengan motif kayu dan 4 mangkuk ke Bali   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 6 mangkuk dengan motif polkadot dan 5 sumpit ke Batam   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong kirimkan 3 sumpit dengan motif geometris dan 5 mangkuk ke Papua   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya butuh 7 sumpit dengan motif bunga dan 4 mangkuk ke Jambi   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 4 mangkuk dengan motif batik dan 3 sumpit ke Surakarta   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 6 sumpit dengan motif strip dan 4 mangkuk ke Medan   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong siapkan 10 mangkuk dengan motif batik dan 5 sumpit ke Makassar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 5 sumpit dengan motif alam dan 6 mangkuk ke Surabaya   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau order 8 mangkuk dengan motif polkadot dan 4 sumpit ke Kalimantan   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 7 sumpit dengan motif strip dan 6 mangkuk ke Surakarta   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 9 mangkuk dengan motif batik dan 3 sumpit ke Bali   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 4 sumpit dengan motif alam dan 6 mangkuk ke Yogyakarta   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 10 mangkuk dengan motif geometris dan 2 sumpit ke Denpasar   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong kirimkan 3 sumpit dengan motif batik dan 5 mangkuk ke Batam   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 6 sumpit dengan motif bunga dan 7 mangkuk ke Pontianak   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau order 4 sumpit dengan motif polkadot dan 5 mangkuk ke Medan   , 0 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 5 sumpit dengan motif kayu dan 6 mangkuk ke Makassar   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya ingin 8 mangkuk dengan motif batik dan 7 sumpit ke Yogyakarta   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+tolong siapkan 6 mangkuk dengan motif alam dan 5 sumpit ke Cirebon   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+pesan 7 sumpit dengan motif geometris dan 8 mangkuk ke Tangerang   , 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau order 10 sumpit dengan motif batik dan 9 mangkuk ke Jakarta   , 0 0 B-QUANTITY B-ITEM 0 B-MOTIF 0 B-QUANTITY B-ITEM B-LOCATION 
+saya mau memesan 5 piring dan 4 gelas dengan motif floral ,0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong kirimkan 10 gelas dengan motif kotak-kotak ke jakarta selatan ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION
+saya membutuhkan gelas dan piring dengan motif etnik ,0 0 B-ITEM 0 B-ITEM 0 0 B-MOTIF
+saya ingin memesan 3 mangkuk dan 2 sendok dengan motif garis ,0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+mohon kirimkan 5 piring dengan motif bunga ke surabaya ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya membutuhkan 6 gelas dan 3 piring dengan motif polkadot ,0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong kirimkan 8 cangkir dengan motif garis dan bawa ke jakarta pusat ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION I-LOCATION
+saya mau membeli 10 sendok dan 5 piring dengan motif batik ,0 0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+minta 3 cangkir dan 4 mangkuk dengan motif kotak-kotak ke bandung ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+tolong antar 9 piring dengan motif daun ke bekasi utara ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION
+pesan 7 gelas dengan motif minimalis ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya memerlukan 2 mangkuk dan 6 cangkir dengan motif berbunga ,0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+kirim 10 piring dengan motif garis-garis ke jakarta timur ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION
+saya ingin memesan 1 set piring dan gelas dengan motif kayu ,0 0 0 B-QUANTITY 0 B-ITEM 0 B-ITEM 0 0 B-MOTIF
+tolong kirimkan 4 piring dengan motif motif etnik ke tangerang ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+bawa 3 gelas dan 5 sendok dengan motif floral ke medan ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya butuh 2 cangkir dengan motif geometris dan 8 piring ke bandung ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-QUANTITY B-ITEM 0 B-LOCATION
+saya mau membeli 7 gelas dengan motif abstrak ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong pesan 3 piring dengan motif batik ke bali ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+minta 8 mangkuk dan 2 sendok dengan motif flora ke semarang ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya ingin memesan 6 mangkuk dengan motif berbunga untuk dikirim ke depok ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION
+mohon kirimkan 2 cangkir dan 5 gelas dengan motif minimalis ,0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+pesan 4 sendok dengan motif garis ke surabaya timur ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION
+minta 7 piring dan 3 mangkuk dengan motif etnik ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong kirimkan 5 cangkir dengan motif bunga dan antar ke bogor ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION
+bawa 2 gelas dengan motif garis-garis ke jakarta ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya membutuhkan 4 sendok dan 6 cangkir dengan motif batik ,0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+mohon antar 7 mangkuk dengan motif floral ke semarang ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+kirim 10 gelas dan 2 sendok dengan motif polkadot ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya mau memesan 1 set cangkir dengan motif garis ,0 0 0 B-QUANTITY 0 B-ITEM 0 0 B-MOTIF
+pesan 5 piring dengan motif bunga-bunga untuk dikirim ke bandung ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION
+minta 3 sendok dan 4 piring dengan motif etnik ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong antar 8 cangkir dengan motif minimalis ke jakarta ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya ingin pesan 9 mangkuk dengan motif polkadot untuk surabaya ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+mohon kirimkan 3 gelas dan 6 piring dengan motif garis-garis ,0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+pesan 4 cangkir dengan motif floral ke bekasi ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+minta 2 piring dan 8 sendok dengan motif etnik ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong kirim 7 mangkuk dengan motif garis untuk dikirim ke bali ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION
+saya mau memesan 5 gelas dengan motif bunga ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+pesan 10 sendok dengan motif minimalis ke yogyakarta ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+minta 1 set piring dengan motif etnik ke malang ,0 B-QUANTITY 0 B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+tolong kirimkan 6 cangkir dan 4 mangkuk dengan motif polkadot ,0 0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya membutuhkan 3 gelas dengan motif garis-garis ke jakarta selatan ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION I-LOCATION
+kirim 2 mangkuk dan 5 sendok dengan motif etnik ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong antar 4 piring dengan motif polkadot ke bali ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+pesan 3 cangkir dengan motif floral untuk dikirim ke medan ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION
+minta 8 sendok dan 3 piring dengan motif garis ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya mau membeli 10 piring dengan motif etnik ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+pesan 5 gelas dengan motif minimalis ke bogor ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+tolong antar 3 mangkuk dengan motif polkadot ke depok ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+minta 7 cangkir dengan motif garis-garis ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+pesan 9 sendok dengan motif etnik ke bandung ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya mau memesan 2 piring dengan motif bunga-bunga ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+kirim 4 mangkuk dengan motif minimalis untuk dikirim ke makassar ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 0 0 B-LOCATION
+tolong antar 5 gelas dengan motif polkadot ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+pesan 6 piring dengan motif floral ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+minta 3 sendok dengan motif garis-garis ke jakarta ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya mau memesan 10 cangkir dengan motif etnik ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong kirimkan 4 mangkuk dengan motif garis ke bali ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+pesan 5 gelas dengan motif bunga ke yogyakarta ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+saya mau memesan 8 piring dengan motif minimalis ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+kirim 2 sendok dan 6 cangkir dengan motif etnik ,0 B-QUANTITY B-ITEM 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+tolong kirimkan 7 mangkuk dengan motif polkadot ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya ingin memesan 3 gelas dengan motif garis-garis ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+minta 10 piring dengan motif etnik ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya membutuhkan 4 cangkir dengan motif minimalis ke jakarta ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+tolong kirim 6 sendok dengan motif polkadot ke semarang ,0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
+pesan 8 mangkuk dengan motif garis ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+saya ingin memesan 5 piring dengan motif bunga-bunga ,0 0 0 B-QUANTITY B-ITEM 0 0 B-MOTIF
+kirim 7 cangkir dengan motif floral ke bandung ,0 B-QUANTITY B-ITEM 0 0 B-MOTIF 0 B-LOCATION
